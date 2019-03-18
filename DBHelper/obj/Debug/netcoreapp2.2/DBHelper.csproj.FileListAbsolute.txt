@@ -1,0 +1,11 @@
+C:\github\InsertMaker\DBHelper\bin\Debug\netcoreapp2.2\DBHelper.deps.json
+C:\github\InsertMaker\DBHelper\bin\Debug\netcoreapp2.2\DBHelper.runtimeconfig.json
+C:\github\InsertMaker\DBHelper\bin\Debug\netcoreapp2.2\DBHelper.runtimeconfig.dev.json
+C:\github\InsertMaker\DBHelper\bin\Debug\netcoreapp2.2\DBHelper.dll
+C:\github\InsertMaker\DBHelper\obj\Debug\netcoreapp2.2\DBHelper.csprojAssemblyReference.cache
+C:\github\InsertMaker\DBHelper\obj\Debug\netcoreapp2.2\DBHelper.csproj.CoreCompileInputs.cache
+C:\github\InsertMaker\DBHelper\obj\Debug\netcoreapp2.2\DBHelper.AssemblyInfoInputs.cache
+C:\github\InsertMaker\DBHelper\obj\Debug\netcoreapp2.2\DBHelper.AssemblyInfo.cs
+C:\github\InsertMaker\DBHelper\bin\Debug\netcoreapp2.2\DBHelper.pdb
+C:\github\InsertMaker\DBHelper\obj\Debug\netcoreapp2.2\DBHelper.dll
+C:\github\InsertMaker\DBHelper\obj\Debug\netcoreapp2.2\DBHelper.pdb

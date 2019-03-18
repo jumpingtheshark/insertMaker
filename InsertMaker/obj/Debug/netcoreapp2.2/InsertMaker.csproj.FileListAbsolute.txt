@@ -1,0 +1,14 @@
+C:\github\InsertMaker\InsertMaker\bin\Debug\netcoreapp2.2\InsertMaker.deps.json
+C:\github\InsertMaker\InsertMaker\bin\Debug\netcoreapp2.2\InsertMaker.runtimeconfig.json
+C:\github\InsertMaker\InsertMaker\bin\Debug\netcoreapp2.2\InsertMaker.runtimeconfig.dev.json
+C:\github\InsertMaker\InsertMaker\bin\Debug\netcoreapp2.2\InsertMaker.dll
+C:\github\InsertMaker\InsertMaker\bin\Debug\netcoreapp2.2\InsertMaker.pdb
+C:\github\InsertMaker\InsertMaker\obj\Debug\netcoreapp2.2\InsertMaker.csprojAssemblyReference.cache
+C:\github\InsertMaker\InsertMaker\obj\Debug\netcoreapp2.2\InsertMaker.csproj.CoreCompileInputs.cache
+C:\github\InsertMaker\InsertMaker\obj\Debug\netcoreapp2.2\InsertMaker.AssemblyInfoInputs.cache
+C:\github\InsertMaker\InsertMaker\obj\Debug\netcoreapp2.2\InsertMaker.AssemblyInfo.cs
+C:\github\InsertMaker\InsertMaker\obj\Debug\netcoreapp2.2\InsertMaker.dll
+C:\github\InsertMaker\InsertMaker\obj\Debug\netcoreapp2.2\InsertMaker.pdb
+C:\github\InsertMaker\InsertMaker\bin\Debug\netcoreapp2.2\DBHelper.dll
+C:\github\InsertMaker\InsertMaker\bin\Debug\netcoreapp2.2\DBHelper.pdb
+C:\github\InsertMaker\InsertMaker\obj\Debug\netcoreapp2.2\InsertMaker.csproj.CopyComplete

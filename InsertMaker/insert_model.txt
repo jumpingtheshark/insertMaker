@@ -1,0 +1,18 @@
+﻿
+insert into retail_in.lu_vehicle_model
+(
+id,
+vehicle_model_uid,
+vehicle_make_uid,
+effective_date,
+manually_entered,
+pcvina_model_code,
+pcvina_series_code,
+code_name,
+code_description,
+indicates_unknown
+)
+values
+       (
+       
+

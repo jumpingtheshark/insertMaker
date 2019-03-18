@@ -1,0 +1,22 @@
+﻿insert into
+  retail_in.lu_vehicle_make
+  (
+   uid,
+   vehicle_make_uid,
+   vehicle_type_uid,
+   combo_display,
+   effective_date,
+   
+   manually_entered,
+   ncic_compliant_code,
+   mf_code,
+   code_name,
+   code_description,
+   code_comment,
+   
+   "indicates_unknown ",
+   vehicle_type_code_name,
+   vintelligence 
+   )
+   values
+          (
